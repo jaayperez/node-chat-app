@@ -19,8 +19,8 @@
   "homepage": "https://github.com/jaayperez/node-chat-app#readme",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "body-parser": "^1.20.0",
-    "express": "^4.17.2",
+    "body-parser": "^1.20.4",
+    "express": "^4.22.0",
     "mongoose": "^6.4.6",
     "socket.io": "^4.5.4"
   }
